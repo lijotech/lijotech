@@ -18,4 +18,4 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-[![Lijos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijotech&rank_icon=github&hide=stars)](https://github.com/lijotech/github-readme-stats)
+[![Lijos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijotech&rank_icon=github&hide=stars,contribs)](https://github.com/lijotech/github-readme-stats)
