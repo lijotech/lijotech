@@ -13,3 +13,5 @@
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
 <hr/>
+
+[![Lijos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijotech)](https://github.com/lijotech/github-readme-stats)
